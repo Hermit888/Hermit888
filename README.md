@@ -1,13 +1,25 @@
-# About me
+# About me 😁
 AI-focused graduate student with a B.S. in Artificial Intelligence and currently pursuing an M.S. in Computer Science (AI). 
 Gained hands-on experience during a data science internship at PetroChina, where developed a data visualization website, 
 automated reporting systems, and organized SQL databases. Proven contributor to both academic and industry projects.
 
-# Skills
-- Programming Languages: Python, SQL, HTML, CSS, JavaScript, and Java
-- Technical skills:
+# Skills 💪
+- Programming Languages: Python, SQL, HTML, CSS, JavaScript, Java, and R
+- Tools/Framework: Visual Studio, DBeaver, Android Studio, Pandas, Pytorch, 
+- - Technical skills:
     - Web Scraping
-- Tools: Visual Studio, 
+    - Web Development
+    - GUI Software development
+    - Mobile application development
+    - Database Management
+    - Data Visualization
+
+# Social Media 📱
+LinkedIn: https://www.linkedin.com/in/yuxuan-qian-581ab0266/
+
+# Contact 📫
+You can contact me at yxqian8@gmail.com
+
 <!--
 **Hermit888/Hermit888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
