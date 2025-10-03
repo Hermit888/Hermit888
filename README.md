@@ -3,6 +3,11 @@ AI-focused graduate student with a B.S. in Artificial Intelligence and currently
 Gained hands-on experience during a data science internship at PetroChina, where developed a data visualization website, 
 automated reporting systems, and organized SQL databases. Proven contributor to both academic and industry projects.
 
+# Skills
+- Programming Languages: Python, SQL, HTML, CSS, JavaScript, and Java
+- Technical skills:
+    - Web Scraping
+- Tools: Visual Studio, 
 <!--
 **Hermit888/Hermit888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
