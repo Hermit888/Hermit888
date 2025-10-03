@@ -5,14 +5,15 @@ automated reporting systems, and organized SQL databases. Proven contributor to 
 
 # Skills 💪
 - Programming Languages: Python, SQL, HTML, CSS, JavaScript, Java, and R
-- Tools/Framework: Visual Studio, DBeaver, Android Studio, Pandas, Pytorch, 
-- - Technical skills:
+- Tools/Frameworks: Visual Studio, DBeaver, Android Studio, Unity, Pandas, Pytorch, Numpy
+    - Technical skills:
     - Web Scraping
     - Web Development
     - GUI Software development
     - Mobile application development
     - Database Management
     - Data Visualization
+    - Machine Learning
 
 # Social Media 📱
 LinkedIn: https://www.linkedin.com/in/yuxuan-qian-581ab0266/
