@@ -6,7 +6,7 @@ automated reporting systems, and organized SQL databases. Proven contributor to 
 # Skills 💪
 - Programming Languages: Python, SQL, HTML, CSS, JavaScript, Java, and R
 - Tools/Frameworks: Visual Studio, DBeaver, Android Studio, Unity, Pandas, Pytorch, Numpy
-    - Technical skills:
+- Technical skills:
     - Web Scraping
     - Web Development
     - GUI Software development
