@@ -1,4 +1,7 @@
-## Hi there 👋
+# About me
+AI-focused graduate student with a B.S. in Artificial Intelligence and currently pursuing an M.S. in Computer Science (AI). 
+Gained hands-on experience during a data science internship at PetroChina, where developed a data visualization website, 
+automated reporting systems, and organized SQL databases. Proven contributor to both academic and industry projects.
 
 <!--
 **Hermit888/Hermit888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
