@@ -7,15 +7,8 @@ automated reporting systems, and organized SQL databases. Proven contributor to 
 - Programming Languages: Python, JavaScript, HTML, CSS, SQL 
 - Database Management:  SQL, MySQL, MariaDB, PostgreSQL 
 - Web Development:  JavaScript, HTML, CSS, React.js
-- Applications:   Visual Studio Code, DBeaver, Android Studio, GitHub Desktop 
+- Applications:   Visual Studio Code, DBeaver, Android Studio, GitHub Desktop
 - Tools/Frameworks: PyTorch, Streamlit, Scikit-Learn, NLTK, NumPy, Pandas, Matplotlib, JSON, psycog2, mysql-connector-python 
-- Technical skills:
-    - Web Scraping
-    - Web Development
-    - Mobile application development
-    - Database Management
-    - Data Visualization
-    - Machine Learning
 
 # Social Media 📱
 LinkedIn: https://www.linkedin.com/in/yuxuan-qian-581ab0266/
