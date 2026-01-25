@@ -4,8 +4,11 @@ Gained hands-on experience during a data science internship at PetroChina, where
 automated reporting systems, and organized SQL databases. Proven contributor to both academic and industry projects.
 
 # Skills 💪
-- Programming Languages: Python, SQL, HTML, CSS, JavaScript, Java, and R
-- Tools/Frameworks: Visual Studio, DBeaver, Android Studio, Pandas, PyTorch, Numpy
+- Programming Languages: Python, JavaScript, HTML, CSS, SQL 
+- Database Management:  SQL, MySQL, MariaDB, PostgreSQL 
+- Web Development:  JavaScript, HTML, CSS, React.js
+- Applications:   Visual Studio Code, DBeaver, Android Studio, GitHub Desktop 
+- Tools/Frameworks: PyTorch, Streamlit, Scikit-Learn, NLTK, NumPy, Pandas, Matplotlib, JSON, psycog2, mysql-connector-python 
 - Technical skills:
     - Web Scraping
     - Web Development
