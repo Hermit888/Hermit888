@@ -4,11 +4,11 @@ Gained hands-on experience during a data science internship at PetroChina, where
 automated reporting systems, and organized SQL databases. Proven contributor to both academic and industry projects.
 
 # Skills 💪
-- Programming Languages: Python, JavaScript, HTML, CSS, SQL 
-- Database Management:  SQL, MySQL, MariaDB, PostgreSQL 
-- Web Development:  JavaScript, HTML, CSS, React.js
-- Applications:   Visual Studio Code, DBeaver, Android Studio, GitHub Desktop
-- Tools/Frameworks: PyTorch, Streamlit, Scikit-Learn, NLTK, NumPy, Pandas, Matplotlib, JSON, psycog2, mysql-connector-python 
+- Programming Languages: 	Python, JavaScript, HTML, CSS, SQL
+- Machine Learning:		PyTorch, scikit-learn, NumPy, pandas, Matplotlib, NLTK
+- Databases: 			MySQL, MariaDB, PostgreSQL
+- Web Development: 		React.js, Flask, Streamlit
+- Developer Tools: 		GitHub, Visual Studio Code, DBeaver, Android Studio, Docker, JSON
 
 # Social Media 📱
 LinkedIn: https://www.linkedin.com/in/yuxuan-qian-581ab0266/
