@@ -7,7 +7,7 @@ automated reporting systems, and organized SQL databases. Proven contributor to 
 - Programming Languages: 	Python, JavaScript, HTML, CSS, SQL
 - Machine Learning:		PyTorch, scikit-learn, NumPy, pandas, Matplotlib, NLTK
 - Databases: 			MySQL, MariaDB, PostgreSQL
-- Web Development: 		React.js, Flask, Streamlit
+- Web Development: 		React.js, FastAPI, Streamlit
 - Developer Tools: 		GitHub, Visual Studio Code, DBeaver, Android Studio, Docker, JSON
 
 # Social Media 📱
