@@ -19,7 +19,7 @@ MS CS (AI) student at USC, focused on LLMs, fine-tuning, and applied ML. BS in A
 LinkedIn: https://www.linkedin.com/in/yuxuan-qian-581ab0266/
 
 # Contact 📫
-You can contact me at yxqian8@gmail.com
+You can contact me at yxqian8@gmail.com or qianyuxu@usc.edu
 
 <!--
 **Hermit888/Hermit888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
